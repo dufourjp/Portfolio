@@ -1,0 +1,17 @@
+site_name: Portfolio technique - Jean-Paul Dufour
+site_description: Documentation publique de projets techniques
+site_author: Jean-Paul Dufour
+
+theme:
+  name: material
+  language: fr
+
+nav:
+  - Accueil: index.md
+  - ESP32 APS ECU: esp32-aps-ecu/index.md
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
