@@ -1,6 +1,8 @@
 site_name: Portfolio technique - Jean-Paul Dufour
 site_description: Documentation publique de projets techniques
 site_author: Jean-Paul Dufour
+repo_name: dufourjp/Portfolio
+repo_url: https://github.com/dufourjp/Portfolio
 
 theme:
   name: material
