@@ -12,7 +12,7 @@ Cette page présente l'ensemble des éléments utilisés pour construire la solu
 
 ## Architecture de mise en œuvre
 
-[Architecture de mise en œuvre](images/03-architecture-mise-en-oeuvre.png)
+![Architecture de mise en œuvre](images/03-architecture-mise-en-oeuvre.png)
 
 ---
 
