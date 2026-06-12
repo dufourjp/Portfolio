@@ -11,10 +11,11 @@ theme:
 nav:
   - Accueil: index.md
   - ESP32 APS ECU:
-      - Présentation: esp32-aps-ecu/index.md
-      - Pourquoi ce projet ?: esp32-aps-ecu/01-pourquoi-ce-projet.md
-      - Architecture générale: esp32-aps-ecu/02-architecture.md
-       
+      - 00) Présentation: esp32-aps-ecu/index.md
+      - 01) Pourquoi ce projet ?: esp32-aps-ecu/01-pourquoi-ce-projet.md
+      - 02) Architecture générale: esp32-aps-ecu/02-architecture.md
+      - 03) Préparation de l'environnement: esp32-aps-ecu/03-preparation-de-l-environnement.md
+
 markdown_extensions:
   - admonition
   - tables

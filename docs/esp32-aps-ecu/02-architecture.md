@@ -92,30 +92,7 @@ Les usages mis en œuvre sont notamment :
 * scénarios d'automatisation ;
 * supervision de la production photovoltaïque.
 
-## Flux de données
-
-Le cheminement des informations est le suivant :
-
-```text
-Micro-onduleurs APSystems
-            │
-            │ IEEE 802.15.4
-            │ Trames APSystems propriétaires
-            ▼
-         CC2530
-            │
-            │ UART
-            ▼
-          ESP32
-            │
-            │ MQTT
-            ▼
-       Broker MQTT
-            │
-            │ MQTT
-            ▼
-          Jeedom
-```
+---
 
 ## Principes retenus
 
