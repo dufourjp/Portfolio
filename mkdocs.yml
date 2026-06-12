@@ -13,7 +13,8 @@ nav:
   - ESP32 APS ECU:
       - Présentation: esp32-aps-ecu/index.md
       - Pourquoi ce projet ?: esp32-aps-ecu/01-pourquoi-ce-projet.md
-      
+      - Architecture générale: esp32-aps-ecu/02-architecture.md
+       
 markdown_extensions:
   - admonition
   - tables
