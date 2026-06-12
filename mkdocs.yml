@@ -1,14 +1,18 @@
+site_name: Portfolio technique - Jean-Paul Dufour
+site_description: Documentation publique de projets techniques
+site_author: Jean-Paul Dufour
+
+theme:
+  name: material
+  language: fr
+
 nav:
   - Accueil: index.md
-
   - ESP32 APS ECU:
       - Présentation: esp32-aps-ecu/index.md
-      - Pourquoi ce projet ?: esp32-aps-ecu/01-pourquoi-ce-projet.md
-      - Architecture générale: esp32-aps-ecu/02-architecture.md
-      - Matériel utilisé: esp32-aps-ecu/03-materiel.md
-      - Flashage CC2530: esp32-aps-ecu/04-cc2530.md
-      - Déploiement ESP32: esp32-aps-ecu/05-esp32.md
-      - MQTT: esp32-aps-ecu/06-mqtt.md
-      - Jeedom: esp32-aps-ecu/07-jeedom.md
-      - Retour d'expérience: esp32-aps-ecu/08-rex.md
-      - Limites et perspectives: esp32-aps-ecu/09-perspectives.md
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
