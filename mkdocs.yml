@@ -16,6 +16,7 @@ nav:
       - 02) Architecture générale: esp32-aps-ecu/02-architecture.md
       - 03) Préparation de l'environnement: esp32-aps-ecu/03-preparation-de-l-environnement.md
       - 04) Materiel utilisé: esp32-aps-ecu/04-materiel-utilise.md
+      - 05) Flasher le cc2530: esp32-aps-ecu/05-flashage-cc2530.md
 
 markdown_extensions:
   - admonition
