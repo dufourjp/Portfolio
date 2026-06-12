@@ -15,6 +15,7 @@ nav:
       - 01) Pourquoi ce projet ?: esp32-aps-ecu/01-pourquoi-ce-projet.md
       - 02) Architecture générale: esp32-aps-ecu/02-architecture.md
       - 03) Préparation de l'environnement: esp32-aps-ecu/03-preparation-de-l-environnement.md
+      - 04) Materiel utilisé: esp32-aps-ecu/04-materiel-utilise.md
 
 markdown_extensions:
   - admonition
